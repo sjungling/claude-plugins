@@ -1,0 +1,11 @@
+{
+  "id": "example-plugin",
+  "name": "Example Plugin",
+  "description": "An example plugin demonstrating the plugin structure for this marketplace",
+  "version": "1.0.0",
+  "author": "Scott Jungling",
+  "category": "example",
+  "tags": ["example", "template", "starter"],
+  "main": "index.js",
+  "repository": "https://github.com/sjungling/claude-plugins/tree/main/plugins/example-plugin"
+}

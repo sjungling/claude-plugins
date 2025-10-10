@@ -1,0 +1,17 @@
+{
+  "name": "Claude Code Plugins",
+  "description": "Personal collection of Claude Code plugins",
+  "version": "1.0.0",
+  "author": "Scott Jungling",
+  "repository": "https://github.com/sjungling/claude-plugins",
+  "plugins": [
+    {
+      "id": "example-plugin",
+      "path": "plugins/example-plugin",
+      "name": "Example Plugin",
+      "description": "An example plugin demonstrating the plugin structure for this marketplace",
+      "version": "1.0.0"
+    }
+  ]
+}
+
